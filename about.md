@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+我是康永伟，欢迎来到我的博客！
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+这是一个记录和分享心得的地方
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yongweikang08@gmail.com](mailto:yongweikang08@gmail.com)
